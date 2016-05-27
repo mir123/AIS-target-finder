@@ -38,8 +38,8 @@
 
 # Set some variables
 scripttime=`date -u +"%d%m%y-%H"`
-workdir=/home/abri/ais
-email="ro2@myez.greenpeace.org abrileroux@gmail.com"
+workdir=/home/user/ais
+email="example@mail.com"
 
 # Clean up the working files from the previous run
 rm $workdir/lastseen.txt
